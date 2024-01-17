@@ -1,0 +1,55 @@
+body {
+    font-family: "Be Vietnam Pro", sans-serif;
+    background: url(images/bg-image.svg) no-repeat;
+    background-size: cover;
+    max-width: 1280px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    font-size: 64px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.subheader {
+    color: white;
+    font-size: 32px;
+    
+}
+
+.Csize {
+    position: relative;
+    top: 45px;
+    color: aliceblue;
+}
+
+.sub {
+    position: relative;
+    top: 45px;
+    color: aliceblue;
+}
+
+#floatingTextarea2 {
+    width: 736px;
+    height: 250px;
+}
+
+.btn {
+    width: 736px;
+    margin-bottom: 50px;
+}
+
+#Fname,#Csize,#Cname,#sub,#btn {
+    padding: 10px;
+}
+
+#inputSec { 
+   background: #9967d16b;
+   border: 0!important;
+   padding: 5px;
+   
+}
